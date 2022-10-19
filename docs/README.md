@@ -2,7 +2,7 @@
 
 Componente customizado el cual puede mostrar al cliente un pdf que se le sea asignado. 
 
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png) ~Agregar imagen de componente quick order ~
+![pdf](https://user-images.githubusercontent.com/73150391/196824078-ce59b338-fe0b-446e-a6ba-3525e824fc88.PNG)
 
 ## Configuración 
 
